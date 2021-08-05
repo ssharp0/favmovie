@@ -1,0 +1,54 @@
+* {
+ font-family: 'Oswald', sans-serif;
+}
+
+body {
+ background-color: #6C4B5E;
+}
+
+h1, h2 {
+ text-align: center;
+ color: #D7907B;
+}
+
+.p_linktxt {
+ font-family: fantasy;
+ font-size: large;
+ color: white;
+}
+
+#wikilink {
+ color: yellow
+}
+
+.image-container {
+ text-align: center;
+ border: black;
+}
+
+.flex-container {
+ display: flex;
+ padding: 50px;
+}
+
+.actors {
+ color: black;
+ background-color: #ECC8AE;
+ border: solid #B3679B;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ margin-right: 20px;
+ padding: 15px;
+}
+
+.plot {
+ background-color: #DDFFD9;
+ border: dashed black;
+ color: black;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ margin-right: 20px;
+ padding: 15px;
+}
